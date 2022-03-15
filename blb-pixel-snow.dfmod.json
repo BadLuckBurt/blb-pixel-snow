@@ -1,0 +1,16 @@
+{
+    "ModTitle": "blb-pixel-snow",
+    "ModVersion": "1.0",
+    "ModAuthor": "BadLuckBurt",
+    "ContactInfo": "https://forums.dfworkshop.net/memberlist.php?mode=viewprofile&u=938",
+    "DFUnity_Version": "0.13.4",
+    "ModDescription": "Changes snow flakes to white pixels for a classic experience",
+    "GUID": "eda79d58-adc4-415c-bdca-0e13e2df3314",
+    "Files": [
+        "Assets/Game/Mods/blb-pixel-snow/blb-pixel-snow.dfmod.json",
+        "Assets/Game/Mods/blb-pixel-snow/BLBPixelSnow.cs",
+        "Assets/Game/Mods/blb-pixel-snow/Textures/PixelSnow.png",
+        "Assets/Game/Mods/blb-pixel-snow/Materials/BLBSnowMaterial.mat",
+        "Assets/Game/Mods/blb-pixel-snow/modsettings.json"
+    ]
+}
